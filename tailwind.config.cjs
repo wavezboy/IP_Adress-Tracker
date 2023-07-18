@@ -4,12 +4,12 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        primary: "Source Sans Pro",
+        primary: "Rubik",
       },
 
       backgroundImage: {
-        hero: "url('/src/assets/images/bg-sidebar-desktop.svg')",
-        heroMobile: "url('/src/assets/images/bg-sidebar-mobile.svg')",
+        hero: "url('/src/assets/images/pattern-bg-desktop.png')",
+        heroMobile: "url('/src/assets/images/bg-pattern-bg-mobile.png')",
       },
     },
   },
